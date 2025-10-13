@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "minecraft:flint",
+	"S": "minecraft:stick",
+	"F": "minecraft:feather"
+  },
+  "pattern": [
+    "L",
+    "S",
+    "F"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:arrow"
+  }
+}
