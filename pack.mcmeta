@@ -1,9 +1,9 @@
    {
        "pack": {
-           "pack_format": 102,
-           "description": "Senlimicy Custom Crafts - v4",
-           "supported_formats": [80,102],
+           "pack_format": 107,
+           "description": "Senlimicy Custom Crafts - v4.1",
+           "supported_formats": [80,107],
            "min_format": 80,
-           "max_format": 102
+           "max_format": 107
        }
    }
