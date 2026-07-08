@@ -7,8 +7,8 @@
 	"R": "#minecraft:stone_crafting_materials"
   },
   "pattern": [
-    " FR",
-    " SF",
+    " RF",
+    " SR",
     "S  "
   ],
   "result": {

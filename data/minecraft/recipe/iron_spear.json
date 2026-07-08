@@ -7,8 +7,8 @@
 	"R": "minecraft:iron_ingot"
   },
   "pattern": [
-    " FR",
-    " SF",
+    " RF",
+    " SR",
     "S  "
   ],
   "result": {

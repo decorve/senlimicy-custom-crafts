@@ -7,8 +7,8 @@
 	"R": "minecraft:gold_ingot"
   },
   "pattern": [
-    " FR",
-    " SF",
+    " RF",
+    " SR",
     "S  "
   ],
   "result": {

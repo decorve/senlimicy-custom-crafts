@@ -7,8 +7,8 @@
 	"R": "minecraft:diamond"
   },
   "pattern": [
-    " FR",
-    " SF",
+    " RF",
+    " SR",
     "S  "
   ],
   "result": {

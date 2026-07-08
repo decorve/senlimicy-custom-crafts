@@ -7,8 +7,8 @@
 	"R": "#minecraft:planks"
   },
   "pattern": [
-    " FR",
-    " SF",
+    " RF",
+    " SR",
     "S  "
   ],
   "result": {
