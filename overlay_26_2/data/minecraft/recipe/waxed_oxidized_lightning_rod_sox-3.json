@@ -2,7 +2,9 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     "minecraft:waxed_lightning_rod",
-    "minecraft:sulfur_spike"
+    "minecraft:sulfur_spike",
+    "minecraft:sulfur_spike",
+	"minecraft:sulfur_spike"
   ],
   "result": {
     "id": "minecraft:waxed_oxidized_lightning_rod"
