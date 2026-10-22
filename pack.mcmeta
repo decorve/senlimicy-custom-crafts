@@ -1,8 +1,53 @@
 {
-   "pack": {
-	   "pack_format": 121,
-	   "description": "Senlimicy Custom Crafts - v8",
-	   "min_format": 94,
-	   "max_format": 121
-   }
+  "pack": {
+    "pack_format": 121,
+    "description": "Senlimicy Custom Crafts - v8",
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 121
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "overlay_1_21_4",
+        "formats": {
+          "min_inclusive": 61,
+          "max_inclusive": 121
+        }
+      },
+      {
+        "directory": "overlay_1_21_6",
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 121
+        }
+      },
+      {
+        "directory": "overlay_1_21_9",
+        "formats": {
+          "min_inclusive": 66,
+          "max_inclusive": 121
+        }
+      },
+      {
+        "directory": "overlay_1_21_11",
+        "formats": {
+          "min_inclusive": 68,
+          "max_inclusive": 121
+        }
+      },
+      {
+        "directory": "overlay_26_2",
+        "formats": {
+          "min_inclusive": 120,
+          "max_inclusive": 121
+        }
+      },
+      {
+        "directory": "overlay_26_3",
+        "formats": 121
+      }
+    ]
+  }
 }
