@@ -1,8 +1,8 @@
-   {
-       "pack": {
-           "pack_format": 121,
-           "description": "Senlimicy Custom Crafts - v7",
-           "min_format": 94,
-           "max_format": 121
-       }
+{
+   "pack": {
+	   "pack_format": 121,
+	   "description": "Senlimicy Custom Crafts - v8",
+	   "min_format": 94,
+	   "max_format": 121
    }
+}

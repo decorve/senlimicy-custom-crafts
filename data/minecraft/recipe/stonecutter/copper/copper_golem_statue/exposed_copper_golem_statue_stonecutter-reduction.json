@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:exposed_copper_golem_statue",
+  "result": {
+    "id": "minecraft:copper_golem_statue"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:copper_golem_statue",
+    "minecraft:sulfur_spike",
+    "minecraft:sulfur_spike"
+  ],
+  "result": {
+    "id": "minecraft:weathered_copper_golem_statue"
+  }
+}
