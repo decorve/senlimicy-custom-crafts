@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "S": "minecraft:stick",
-	"F": "minecraft:flint",
-	"R": "minecraft:gold_ingot"
+    "#": "minecraft:stick",
+    "X": "minecraft:gold_ingot",
+    "Y": "minecraft:flint"
   },
   "pattern": [
-    " RF",
-    " SR",
-    "S  "
+    " XY",
+    " #X",
+    "#  "
   ],
   "result": {
     "id": "minecraft:golden_spear"

@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "S": "minecraft:stick",
-	"F": "minecraft:flint",
-	"R": "minecraft:diamond"
+    "#": "minecraft:stick",
+    "X": "minecraft:diamond",
+    "Y": "minecraft:flint"
   },
   "pattern": [
-    " RF",
-    " SR",
-    "S  "
+    " XY",
+    " #X",
+    "#  "
   ],
   "result": {
     "id": "minecraft:diamond_spear"

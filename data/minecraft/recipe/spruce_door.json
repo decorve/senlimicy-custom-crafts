@@ -1,13 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
+  "group": "wooden_door",
   "key": {
-    "P": "minecraft:spruce_planks"
+    "#": "minecraft:spruce_planks"
   },
   "pattern": [
-    "PP",
-    "PP",
-    "PP"
+    "##",
+    "##",
+    "##"
   ],
   "result": {
     "id": "minecraft:spruce_door"

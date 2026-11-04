@@ -1,13 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
+  "group": "wooden_door",
   "key": {
-    "P": "minecraft:pale_oak_planks"
+    "#": "minecraft:pale_oak_planks"
   },
   "pattern": [
-    "PP",
-    "PP",
-    "PP"
+    "##",
+    "##",
+    "##"
   ],
   "result": {
     "id": "minecraft:pale_oak_door"

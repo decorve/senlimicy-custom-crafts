@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "L": "minecraft:flint",
-	"S": "minecraft:stick",
-	"F": "minecraft:feather"
+    "#": "minecraft:stick",
+    "X": "minecraft:flint",
+    "Y": "minecraft:feather"
   },
   "pattern": [
-    "L",
-    "S",
-    "F"
+    "X",
+    "#",
+    "Y"
   ],
   "result": {
     "count": 8,

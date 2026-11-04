@@ -2,14 +2,14 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "S": "minecraft:stick",
-	"F": "minecraft:flint",
-	"R": "minecraft:copper_ingot"
+    "#": "minecraft:stick",
+    "X": "minecraft:copper_ingot",
+    "Y": "minecraft:flint"
   },
   "pattern": [
-    " RF",
-    " SR",
-    "S  "
+    " XY",
+    " #X",
+    "#  "
   ],
   "result": {
     "id": "minecraft:copper_spear"

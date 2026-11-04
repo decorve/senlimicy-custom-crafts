@@ -1,13 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
+  "group": "wooden_door",
   "key": {
-    "P": "minecraft:bamboo_planks"
+    "#": "minecraft:bamboo_planks"
   },
   "pattern": [
-    "PP",
-    "PP",
-    "PP"
+    "##",
+    "##",
+    "##"
   ],
   "result": {
     "id": "minecraft:bamboo_door"
