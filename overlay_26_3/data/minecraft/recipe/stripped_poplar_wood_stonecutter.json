@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": [
-    "minecraft:poplar_wood"
-  ],
+  "ingredient": "minecraft:poplar_wood",
   "result": {
     "id": "minecraft:stripped_poplar_wood",
     "count": 1

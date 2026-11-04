@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": [
-    "minecraft:poplar_log"
-  ],
+  "ingredient": "minecraft:poplar_log",
   "result": {
     "id": "minecraft:stripped_poplar_log",
     "count": 1
