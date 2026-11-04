@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:tnt_minecart"
+    "minecraft:pale_oak_chest_boat"
   ],
   "result": {
-    "id": "minecraft:tnt"
+    "id": "minecraft:pale_oak_boat"
   }
 }

@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:hopper_minecart"
+    "minecraft:mangrove_chest_boat"
   ],
   "result": {
-    "id": "minecraft:hopper"
+    "id": "minecraft:mangrove_boat"
   }
 }

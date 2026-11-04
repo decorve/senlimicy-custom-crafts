@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:command_block_minecart"
+    "minecraft:birch_chest_boat"
   ],
   "result": {
-    "id": "minecraft:command_block"
+    "id": "minecraft:birch_boat"
   }
 }

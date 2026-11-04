@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:oak_chest_boat"
+    "minecraft:hopper_minecart"
   ],
   "result": {
-    "id": "minecraft:chest"
+    "id": "minecraft:minecart"
   }
 }

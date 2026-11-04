@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:mangrove_chest_boat"
+    "minecraft:oak_chest_boat"
   ],
   "result": {
-    "id": "minecraft:chest"
+    "id": "minecraft:oak_boat"
   }
 }
