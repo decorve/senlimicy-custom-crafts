@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "dyed_glazed_terracotta",
+  "key": {
+    "#": "#minecraft:glazed_terracotta",
+    "X": "minecraft:red_dye"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:red_glazed_terracotta"
+  }
+}
